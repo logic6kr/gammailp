@@ -1,0 +1,6 @@
+DorothyHoward auntof AnneBoleyn
+AnneBoleyn auntof HenryCarey
+AnneBoleyn motherof ElizabethI
+HenryVIII marriedto AnneBoleyn
+HenryVIII brotherof MargaretTudor
+HenryVIII father ElizabethI

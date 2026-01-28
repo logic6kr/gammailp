@@ -1,0 +1,15 @@
+0 zero 0
+0 succ 1
+1 succ 2
+2 succ 3
+3 succ 4
+4 succ 5
+5 succ 6
+6 succ 7
+7 succ 8
+8 succ 9
+0 even 0
+2 even 2
+4 even 4
+6 even 6
+8 even 8

@@ -1,0 +1,15 @@
+i mother a
+a father b
+a father c
+b father d
+b father e
+c mother f
+c mother g
+f mother h
+i gp b
+i gp c
+a gp d
+a gp e
+a gp f
+a gp g
+c gp h

@@ -1,0 +1,15 @@
+textR,text1,text2
+edge,a,b
+edge,b,c
+edge,c,d
+edge,b,a
+cons,a,b
+cons,b,c
+cons,c,d
+cons,b,a
+cons,a,c
+cons,a,d
+cons,a,a
+cons,b,d
+cons,b,a
+cons,b,b

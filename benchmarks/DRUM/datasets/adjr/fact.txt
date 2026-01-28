@@ -1,0 +1,14 @@
+a	edge	b
+b	edge	a
+c	edge	d
+c	edge	e
+d	edge	e
+a	color	red
+b	color	green
+c	color	red
+d	color	red
+e	color	green
+b	adjr	b
+c	adjr	c
+red	red	red
+green	green	green

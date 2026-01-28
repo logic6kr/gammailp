@@ -1,0 +1,8 @@
+edge[a@b]#
+edge[a@c]#
+edge[b@d]#
+edge[c@d]#
+edge[c@e]#
+edge[d@e]#
+tc[a@a]#
+tc[c@c]#

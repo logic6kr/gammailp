@@ -1,0 +1,15 @@
+father[a@b]#
+father[a@c]#
+father[d@e]#
+father[d@f]#
+father[g@h]#
+father[g@i]#
+brother[b@c]#
+brother[c@b]#
+brother[e@f]#
+sister[f@e]#
+sister[h@i]#
+sister[i@h]#
+son[b@a]#
+son[c@a]#
+son[e@d]#

@@ -1,0 +1,10 @@
+cons[4321l@321l]#
+cons[321l@21l]#
+cons[21l@1l]#
+length[4321l@4]#
+length[321l@3]#
+length[21l@2]#
+length[1l@1]#
+succ[1@2]#
+succ[2@3]#
+succ[3@4]#

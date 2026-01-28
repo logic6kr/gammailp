@@ -1,0 +1,12 @@
+0 zero 0
+0 succ 1
+1 succ 2
+2 succ 3
+3 succ 4
+4 succ 5
+5 succ 6
+6 succ 7
+7 succ 8
+8 succ 9
+0 buzz 0
+5 buzz 5

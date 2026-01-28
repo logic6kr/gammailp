@@ -1,0 +1,12 @@
+*.png
+image/MNIST/raw/train-images-idx3-ubyte
+image/MNIST/raw/train-labels-idx1-ubyte
+*.pt
+dat-kandinsky-patterns.zip
+*events.out.*
+*.pyc
+*.pkl
+*.pk
+*.arrow
+*.md
+*predicate.md

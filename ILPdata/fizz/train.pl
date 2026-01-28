@@ -1,0 +1,10 @@
+0 zero 0
+0 succ 1
+1 succ 2
+2 succ 3
+3 succ 4
+4 succ 5
+5 succ 6
+0 fizz 0
+3 fizz 3
+6 fizz 6

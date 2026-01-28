@@ -1,0 +1,14 @@
+a parent b
+a parent c
+c parent e
+c parent f
+d parent c
+g parent h
+a related b
+a related c
+a related e
+a related f
+f related a
+a related a
+d related b
+h related g

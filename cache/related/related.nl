@@ -1,0 +1,14 @@
+parent[a@b]#
+parent[a@c]#
+parent[c@e]#
+parent[c@f]#
+parent[d@c]#
+parent[g@h]#
+related[a@b]#
+related[a@c]#
+related[a@e]#
+related[a@f]#
+related[f@a]#
+related[a@a]#
+related[d@b]#
+related[h@g]#

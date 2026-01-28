@@ -1,0 +1,15 @@
+zero[0@0]#
+succ[0@1]#
+succ[1@2]#
+succ[2@3]#
+succ[3@4]#
+succ[4@5]#
+succ[5@6]#
+succ[6@7]#
+succ[7@8]#
+succ[8@9]#
+odd[1@1]#
+odd[3@3]#
+odd[5@5]#
+odd[7@7]#
+odd[9@9]#

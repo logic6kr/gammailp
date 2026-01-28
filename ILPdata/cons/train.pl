@@ -1,0 +1,14 @@
+a edge b
+b edge c
+c edge d
+b edge a
+a cons b
+b cons c
+c cons d
+b cons a
+a cons c
+a cons d
+a cons a
+b cons d
+b cons a
+b cons b

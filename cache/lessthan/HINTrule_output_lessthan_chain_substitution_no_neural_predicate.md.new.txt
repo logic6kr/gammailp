@@ -1,0 +1,64 @@
+2025-05-14 21:32:27.832200
+[['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]']]
+[1.0, 1.0, 1.0]
+instance have checked: 2.0
+2025-05-14 21:49:50.059050
+[['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]']]
+[1.0, 1.0, 1.0]
+instance have checked: 2.0
+2025-05-14 22:12:41.798693
+[['lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@2]', 'lessthan[0@2]']]
+[0.5, 0.5, 0.5]
+instance have checked: 2.0
+2025-05-14 22:15:14.818433
+[['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]']]
+[1.0, 1.0, 1.0]
+instance have checked: 2.0
+2025-05-14 22:18:06.624838
+[['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]']]
+[1.0, 1.0, 1.0]
+instance have checked: 2.0
+2025-05-14 22:18:40.456503
+[['lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@2]', 'lessthan[0@2]']]
+[0.5, 0.5, 0.5]
+instance have checked: 2.0
+2025-05-14 22:20:33.407972
+[['lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@2]', 'lessthan[0@2]']]
+[0.5, 0.5, 0.5]
+instance have checked: 2.0
+2025-05-14 22:20:33.414410
+[['lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@2]', 'lessthan[0@2]']]
+[0.3333333333333333, 0.3333333333333333, 0.3333333333333333]
+instance have checked: 3.0
+2025-05-14 22:21:25.839568
+[['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]']]
+[1.0, 1.0, 1.0]
+instance have checked: 2.0
+2025-05-14 22:21:25.846291
+[['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]', 'succ[0@1]', 'succ[0@1]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]', 'succ[0@1]', 'succ[0@1]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]', 'succ[0@1]', 'succ[0@1]']]
+[1.0, 1.0, 1.0]
+instance have checked: 3.0
+2025-05-14 22:24:52.143866
+[['lessthan[0@1]', 'lessthan[0@1]'], ['lessthan[0@1]', 'lessthan[0@1]'], ['lessthan[0@1]', 'lessthan[0@1]']]
+[0.5, 0.5, 0.5]
+instance have checked: 2.0
+2025-05-14 22:30:27.360196
+[['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]']]
+[1.0, 1.0, 1.0]
+instance have checked: 2.0
+2025-05-14 22:30:47.019455
+[['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]']]
+[1.0, 1.0, 1.0]
+instance have checked: 2.0
+2025-05-14 22:59:37.923027
+[['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]']]
+[1.0, 1.0, 1.0]
+instance have checked: 2.0
+2025-05-14 22:59:47.889346
+[['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]']]
+[1.0, 1.0, 1.0]
+instance have checked: 2.0
+2025-05-15 09:00:02.008063
+[['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]'], ['lessthan[0@1]', 'lessthan[0@1]', 'lessthan[0@2]', 'lessthan[0@2]']]
+[1.0, 1.0, 1.0]
+instance have checked: 2.0

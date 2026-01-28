@@ -1,0 +1,10 @@
+4321l cons 321l
+321l cons 21l
+21l cons 1l
+4321l length 4
+321l length 3
+21l length 2
+1l length 1
+1 succ 2
+2 succ 3
+3 succ 4

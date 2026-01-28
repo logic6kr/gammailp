@@ -1,0 +1,17 @@
+if
+false
+then
+1
+MemoryMappedTable
+text: string
+input_ids: list<item: int32>
+  child 0, item: int32
+token_type_ids: list<item: int8>
+  child 0, item: int8
+attention_mask: list<item: int8>
+  child 0, item: int8
+----
+text: [["Appeal for change in leadership","Deny responsibility","Host a visit","Consult","Use unconventional violence",...,"Retreat or surrender militarily","Arrest, detain, or charge with legal action","fight with artillery and tanks","Make pessimistic comment","Appeal for diplomatic cooperation (such as policy support)"]]
+input_ids: [[[101,5574,2005,2689,1999,...,0,0,0,0,0],[101,9772,5368,102,0,...,0,0,0,0,0],...,[101,2191,21877,18719,23738,...,0,0,0,0,0],[101,5574,2005,8041,6792,...,0,0,0,0,0]]]
+token_type_ids: [[[0,0,0,0,0,...,0,0,0,0,0],[0,0,0,0,0,...,0,0,0,0,0],...,[0,0,0,0,0,...,0,0,0,0,0],[0,0,0,0,0,...,0,0,0,0,0]]]
+attention_mask: [[[1,1,1,1,1,...,0,0,0,0,0],[1,1,1,1,0,...,0,0,0,0,0],...,[1,1,1,1,1,...,0,0,0,0,0],[1,1,1,1,1,...,0,0,0,0,0]]]

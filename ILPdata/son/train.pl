@@ -1,0 +1,15 @@
+a father b
+a father c
+d father e
+d father f
+g father h
+g father i
+b brother c
+c brother b
+e brother f
+f sister e
+h sister i
+i sister h
+b son a
+c son a
+e son d

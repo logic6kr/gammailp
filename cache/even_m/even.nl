@@ -1,0 +1,15 @@
+zero[E0@E0]#
+succ[E0@E1]#
+succ[E1@E2]#
+succ[E2@E3]#
+succ[E3@E4]#
+succ[E4@E5]#
+succ[E5@E6]#
+succ[E6@E7]#
+succ[E7@E8]#
+succ[E8@E9]#
+even[E0@E0]#
+even[E2@E2]#
+even[E4@E4]#
+even[E6@E6]#
+even[E8@E8]#

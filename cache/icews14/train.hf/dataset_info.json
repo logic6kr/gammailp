@@ -1,0 +1,50 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "csv",
+  "dataset_size": 1127250270,
+  "description": "",
+  "download_checksums": {
+    "./gammaILP//cache/icews14/triple_train_occ.csv": {
+      "num_bytes": 999123157,
+      "checksum": null
+    }
+  },
+  "download_size": 999123157,
+  "features": {
+    "triple": {
+      "feature": {
+        "dtype": "float32",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "label": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 2126373427,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 1127250270,
+      "num_examples": 14647550,
+      "shard_lengths": [
+        6470000,
+        6520000,
+        1657550
+      ],
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

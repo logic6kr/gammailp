@@ -1,0 +1,17 @@
+cons[4321l@321l]#
+cons[321l@21l]#
+cons[21l@1l]#
+value[4321l@4]#
+value[321l@3]#
+value[21l@2]#
+value[1l@1]#
+member[4@4321l]#
+member[3@4321l]#
+member[2@4321l]#
+member[1@4321l]#
+member[3@321l]#
+member[2@321l]#
+member[1@321l]#
+member[2@21l]#
+member[1@21l]#
+member[1@1l]#

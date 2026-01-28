@@ -1,0 +1,13 @@
+a edge b
+b edge c
+c edge a
+b edge d
+d egde e
+d edge f
+e edge f
+f edge e
+a iscycle a
+b iscycle b
+c iscycle c
+e iscycle e
+f iscycle f

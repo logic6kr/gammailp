@@ -1,0 +1,17 @@
+4321l cons 321l
+321l cons 21l
+21l cons 1l
+4321l value 4
+321l value 3
+21l value 2
+1l value 1
+4 member 4321l
+3 member 4321l
+2 member 4321l
+1 member 4321l
+3 member 321l
+2 member 321l
+1 member 321l
+2 member 21l
+1 member 21l
+1 member 1l

@@ -1,0 +1,16 @@
+edge[a@b]#
+edge[b@a]#
+edge[c@b]#
+edge[f@c]#
+edge[d@c]#
+edge[e@d]#
+cons[a@green]#
+cons[b@green]#
+cons[c@red]#
+cons[d@green]#
+cons[e@green]#
+cons[f@red]#
+gcor[a@a]#
+gcor[b@b]#
+gcor[e@e]#
+gcor[f@f]#

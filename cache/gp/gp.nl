@@ -1,0 +1,15 @@
+mother[i@a]#
+father[a@b]#
+father[a@c]#
+father[b@d]#
+father[b@e]#
+mother[c@f]#
+mother[c@g]#
+mother[f@h]#
+gp[i@b]#
+gp[i@c]#
+gp[a@d]#
+gp[a@e]#
+gp[a@f]#
+gp[a@g]#
+gp[c@h]#

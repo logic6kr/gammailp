@@ -1,0 +1,5 @@
+edge
+color
+adjr
+red
+green

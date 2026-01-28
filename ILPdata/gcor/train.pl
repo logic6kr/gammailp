@@ -1,0 +1,16 @@
+a edge b
+b edge a
+c edge b
+f edge c
+d edge c
+e edge d
+a cons green
+b cons green
+c cons red
+d cons green
+e cons green
+f cons red
+a gcor a
+b gcor b
+e gcor e
+f gcor f

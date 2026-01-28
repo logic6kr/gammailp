@@ -1,0 +1,14 @@
+textR,text1,text2
+edge,a,b
+edge,b,c
+edge,c,a
+edge,b,d
+egde,d,e
+edge,d,f
+edge,e,f
+edge,f,e
+iscycle,a,a
+iscycle,b,b
+iscycle,c,c
+iscycle,e,e
+iscycle,f,f

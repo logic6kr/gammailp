@@ -1,0 +1,10 @@
+zero[0@0]#
+succ[0@1]#
+succ[1@2]#
+succ[2@3]#
+succ[3@4]#
+succ[4@5]#
+succ[5@6]#
+fizz[0@0]#
+fizz[3@3]#
+fizz[6@6]#

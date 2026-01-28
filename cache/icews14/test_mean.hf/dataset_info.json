@@ -1,0 +1,45 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "csv",
+  "dataset_size": 9689205,
+  "description": "",
+  "download_checksums": {
+    "./gammaILP/cache/icews14/data_test.csv": {
+      "num_bytes": 9662778,
+      "checksum": null
+    }
+  },
+  "download_size": 9662778,
+  "features": {
+    "tuple": {
+      "feature": {
+        "dtype": "float32",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "labels": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 19351983,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 9689205,
+      "num_examples": 13222,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

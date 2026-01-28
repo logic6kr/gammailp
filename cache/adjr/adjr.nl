@@ -1,0 +1,14 @@
+edge[a@b]#
+edge[b@a]#
+edge[c@d]#
+edge[c@e]#
+edge[d@e]#
+color[a@red]#
+color[b@green]#
+color[c@red]#
+color[d@red]#
+color[e@green]#
+adjr[b@b]#
+adjr[c@c]#
+red[red@red]#
+green[green@green]#

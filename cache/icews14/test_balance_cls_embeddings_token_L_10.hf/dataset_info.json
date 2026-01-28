@@ -1,0 +1,60 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "csv",
+  "dataset_size": 24201033,
+  "description": "",
+  "download_checksums": {
+    "./gammaILP//cache/icews14/test_balance_cls_embeddings.csv": {
+      "num_bytes": 20906642,
+      "checksum": null
+    }
+  },
+  "download_size": 20906642,
+  "features": {
+    "textE": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "textR": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "input_ids_label": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "attention_mask_label": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 45107675,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 24201033,
+      "num_examples": 371887,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
